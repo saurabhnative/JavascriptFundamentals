@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
